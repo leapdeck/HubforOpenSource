@@ -2,7 +2,7 @@
 
 ### Opensource Devs
 
-### [Altair](https://github.com/altair-graphql/altair)
+### • [Altair](https://github.com/altair-graphql/altair)
 A feature-rich GraphQL Client for all platforms by [imolorhe](https://github.com/imolorhe)
 
 ### • [African American Heritage Trail: Cambridge](https://github.com/hillc255/CambridgeTrails)  
