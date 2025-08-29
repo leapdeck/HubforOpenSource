@@ -37,6 +37,10 @@ QuikMaths is proof that math can be fun, offering quick, engaging math games des
 ### • [Black Coloring Book・Color Noir](https://apps.apple.com/us/app/black-coloring-book-color-noir/id1213786913)  
 A digital coloring book designed to celebrate Black beauty, culture, and heritage through empowering artwork. The app offers a calming, creative outlet with vibrant, culturally inspired illustrations.
 
+### • [Boba Story](https://apps.apple.com/us/app/boba-story/id1563575361)
+Design your own boba drinks and serve them! Joji, a strawberry forest spirit, shows up and needs your help to restore their old shop.
+
+### • [Focus Friend App] (https://apps.apple.com/us/app/focus-friend-by-hank-green/id6742278016)
 ### • [Spill](https://www.spill.com/)
 A text and image based social media app made by Black developers previously from Twitter, takes the inclusive and enriching Black community experience and amplifies it. It offers intriguing social features, including games and live group events.
 
