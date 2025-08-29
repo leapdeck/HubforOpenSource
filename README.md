@@ -2,6 +2,12 @@
 
 ### Opensource Devs
 
+### • [Afam Flashcard Game](https://github.com/bware218/afam-history-flashcards)
+Interactive Flashcard Game for learning African American history by [bware218](https://github.com/bware218)
+
+### • [AI Cultural Journalist](https://github.com/hermanjustino/ai-journalist)
+The AI Cultural Journalist is an autonomous platform that tracks and analyzes academic publications and news media discussing African American Vernacular English (AAVE). by [hermanjustino](https://github.com/hermanjustino)
+
 ### • [Altair](https://github.com/altair-graphql/altair)
 A feature-rich GraphQL Client for all platforms by [imolorhe](https://github.com/imolorhe)
 
@@ -10,6 +16,13 @@ This is an Android walking trail application. The purpose of the application is 
 
 ### • [Pesapal](https://github.com/bryceandy/laravel_pesapal)  
 An unofficial Pesapal API integration for Laravel. This project simplifies connecting to the Pesapal payment platform within Laravel applications. By [brycecandy](https://github.com/bryceandy)
+
+### • [Brash] (https://github.com/brianjfox/brash)
+A modern C++ reimplementation of a POSIX-compatible interactive shell inspired by GNU Bash. By [brianjfox, original author of the GNU Bash shell](https://github.com/brianjfox)
+
+### • [Toast] (https://github.com/lvndry/toast)
+The definitive legal document intelligence platform - Transform complex legal documents into clear, actionable insights with AI-powered analysis. By [lvndry](https://github.com/lvndry)
+
 
 
 ### Mobile Dev Apps
