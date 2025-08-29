@@ -3,13 +3,13 @@
 ### Opensource Devs
 
 ### • [Altair](https://github.com/altair-graphql/altair)
-A feature-rich GraphQL Client for all platforms by [imolorhe](https://github.com/imolorhe)
+A feature-rich GraphQL Client for all platforms. By [imolorhe](https://github.com/imolorhe)
 
 ### • [Afam Flashcard Game](https://github.com/bware218/afam-history-flashcards)
-Interactive Flashcard Game for learning African American history by [bware218](https://github.com/bware218)
+Interactive Flashcard Game for learning African American history. By [bware218](https://github.com/bware218)
 
 ### • [AI Cultural Journalist](https://github.com/hermanjustino/ai-journalist)
-The AI Cultural Journalist is an autonomous platform that tracks and analyzes academic publications and news media discussing African American Vernacular English (AAVE). by [hermanjustino](https://github.com/hermanjustino)
+The AI Cultural Journalist is an autonomous platform that tracks and analyzes academic publications and news media discussing African American Vernacular English (AAVE). By [hermanjustino](https://github.com/hermanjustino)
 
 ### • [African American Heritage Trail: Cambridge](https://github.com/hillc255/CambridgeTrails)  
 This is an Android walking trail application. The purpose of the application is to teach users about the history of African Americans in Cambridge, MA. By [hillc255](https://github.com/hillc255)
