@@ -40,7 +40,9 @@ A digital coloring book designed to celebrate Black beauty, culture, and heritag
 ### • [Boba Story](https://apps.apple.com/us/app/boba-story/id1563575361)
 Design your own boba drinks and serve them! Joji, a strawberry forest spirit, shows up and needs your help to restore their old shop.
 
-### • [Focus Friend App] (https://apps.apple.com/us/app/focus-friend-by-hank-green/id6742278016)
+### • [Focus Friend App](https://apps.apple.com/us/app/focus-friend-by-hank-green/id6742278016)
+A cozy focus timer. When you Focus, your Bean Friend will Focus. Let your Bean complete their work and get prizes to buy decorations! For anyone who struggles with long sessions of concentration.
+
 ### • [Spill](https://www.spill.com/)
 A text and image based social media app made by Black developers previously from Twitter, takes the inclusive and enriching Black community experience and amplifies it. It offers intriguing social features, including games and live group events.
 
